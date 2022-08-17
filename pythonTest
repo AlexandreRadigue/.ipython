@@ -4,5 +4,7 @@ def test(n):
         s = s + i**2
     return (s)
 
+def test2(n):
+    return(n)
 
 print(test(10))
